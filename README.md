@@ -60,12 +60,6 @@ Add a new .mdx file to src/app/blog/posts or src/app/work/projects
 - Join the Design Engineers Club and share your project with us!
 - Deployed your docs? Share  We feature our favorite apps on our landing page.
 
-## License
-
-Distributed under the CC BY-NC 4.0 License.
-- Attribution is required.
-- Commercial usage is not allowed.
-
-See `LICENSE.txt` for more information.
+ for more information.
 
 ## Deploy with Vercel
