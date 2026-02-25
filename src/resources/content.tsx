@@ -234,7 +234,7 @@ const gallery: Gallery = {
       orientation: "vertical",
     },
     {
-      src: "/images/gallery/python-in-excel.png",
+      src: "/images/gallery/python-in-excel1.png",
       alt: "image",
       orientation: "horizontal",
     },
